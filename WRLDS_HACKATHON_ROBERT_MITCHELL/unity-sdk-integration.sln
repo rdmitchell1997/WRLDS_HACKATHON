@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "unity-sdk-integration", "unity-sdk-integration.csproj", "{5C0071AB-E301-ADD8-A840-E7A22CA500C4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "unity-sdk-integration.Plugins", "unity-sdk-integration.Plugins.csproj", "{B1E734B0-3300-D798-9882-9F33B38172AA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5C0071AB-E301-ADD8-A840-E7A22CA500C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C0071AB-E301-ADD8-A840-E7A22CA500C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C0071AB-E301-ADD8-A840-E7A22CA500C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C0071AB-E301-ADD8-A840-E7A22CA500C4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B1E734B0-3300-D798-9882-9F33B38172AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1E734B0-3300-D798-9882-9F33B38172AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1E734B0-3300-D798-9882-9F33B38172AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1E734B0-3300-D798-9882-9F33B38172AA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

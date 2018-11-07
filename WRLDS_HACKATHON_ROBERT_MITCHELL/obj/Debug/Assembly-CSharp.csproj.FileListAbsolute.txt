@@ -1,0 +1,1 @@
+/Users/mattiasnord/Documents/GIT/unity-sdk-integration/obj/Debug/Assembly-CSharp.csproj.CoreCompileInputs.cache

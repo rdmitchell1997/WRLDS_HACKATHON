@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{5C0071AB-E301-ADD8-A840-E7A22CA500C4}|">
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.ItemProperties.unity-sdk-integration PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Plugins/WRLDSBallPlugin.cs">
+    <Files>
+      <File FileName="Assets/Plugins/SDKStart.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Ball.cs" Line="36" Column="53" />
+      <File FileName="Assets/Plugins/WRLDSBallPlugin.cs" Line="242" Column="6" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
