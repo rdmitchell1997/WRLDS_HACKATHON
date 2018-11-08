@@ -1,6 +1,6 @@
 Android
 PlayerPath?
-D:/unity-sdk-integration/WRLDS.apk
+D:/WRLDS_HACKATHON_ROBERT_MITCHELL/WRLDS.apk
 SceneListBegin?
 Assets/Bedroom.unity
 Assets/Bathroom.unity
@@ -193,6 +193,7 @@ d2a2bd333db22f480a8589e167314ecc Vuforia.UnityExtensions.dll:Vuforia.UserDefined
 05524b8f659e7bfe5756d1335fec24ba Vuforia.UnityExtensions.dll:Vuforia.WireframeTrackableEventHandler
 15bea26698002c6c4a3087131232ce5c Vuforia.UnityExtensions.dll:Vuforia.WordBehaviour
 27f96af363a04faaaedfbf71c3ff3d33 Assembly-CSharp.dll:.Ball
+0d85a64ff9bc1b3f19671182c96bbed6 Assembly-CSharp.dll:.changeroom
 05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp-firstpass.dll:.WRLDSBallPlugin
 fc1e0f4d8439d9928083474691511a13 UnityEngine.Networking.dll:UnityEngine.Networking.NetworkAnimator
 05524b8f659e7bfe5756d1335fec24ba UnityEngine.Networking.dll:UnityEngine.Networking.NetworkBehaviour
@@ -300,4 +301,3 @@ d2a2bd333db22f480a8589e167314ecc Vuforia.UnityExtensions.dll:Vuforia.UserDefined
 3d1b89310e77c34bc0c8d7132231345c Vuforia.UnityExtensions.dll:Vuforia.WireframeBehaviour
 05524b8f659e7bfe5756d1335fec24ba Vuforia.UnityExtensions.dll:Vuforia.WireframeTrackableEventHandler
 15bea26698002c6c4a3087131232ce5c Vuforia.UnityExtensions.dll:Vuforia.WordBehaviour
-0d85a64ff9bc1b3f19671182c96bbed6 Assembly-CSharp.dll:.changeroom
