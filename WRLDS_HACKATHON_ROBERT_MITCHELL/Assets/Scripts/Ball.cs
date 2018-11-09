@@ -9,6 +9,8 @@ public class Ball : MonoBehaviour
     public Rigidbody rb;
     public bool ground = false;
     public sceneChange scenes;
+    public AudioSource ball_source;
+    public AudioClip spin;
 
     public Animator ball;
     public Animator food;
@@ -110,6 +112,7 @@ public class Ball : MonoBehaviour
     }
 
     void BounceHandler (int type, float sumG) {
+        ball_source.PlayOneShot(spin);
         ballG = sumG;
     }
     private void OnCollisionEnter(Collision collision)

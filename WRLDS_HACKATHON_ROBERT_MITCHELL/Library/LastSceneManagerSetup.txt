@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Bedroom.unity
+- path: Assets/SDKintegration.unity
   isLoaded: 1
   isActive: 1

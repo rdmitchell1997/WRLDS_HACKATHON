@@ -1,6 +1,6 @@
 Android
 PlayerPath?
-D:/WRLDS_HACKATHON_ROBERT_MITCHELL/WRLDS.apk
+D:/WRLDS_HACKATHON_ROBERT_MITCHELL/WRLDS_PETS.apk
 SceneListBegin?
 Assets/Bedroom.unity
 Assets/Bathroom.unity
@@ -121,7 +121,7 @@ bc68edb0af574bf79f9550ead8ebae5c UnityEngine.HoloLens.dll:UnityEngine.Audio.Audi
 463516d5b5fe8e67a0a24c48f2095b04 UnityEngine.HoloLens.dll:UnityEngine.EventSystems.HoloLensInputModule
 c2275a8bfbb9f9942cad75ecdfded41d UnityEngine.HoloLens.dll:UnityEngine.XR.WSA.SpatialMappingCollider
 45f3431f0103c41611e8d4eec3d439df UnityEngine.HoloLens.dll:UnityEngine.XR.WSA.SpatialMappingRenderer
-fa609378832c714a3bdcbaf8e7846a3b Assembly-CSharp.dll:.Stats
+d7662f3825b315328e124f1594116141 Assembly-CSharp.dll:.Stats
 26215f135eeb48d8fa1189498c107f6c Vuforia.UnityExtensions.dll:Vuforia.AnchorBehaviour
 0561521e336e270e6e5a9c61387cb838 Vuforia.UnityExtensions.dll:Vuforia.AnchorInputListenerBehaviour
 2e0fd93f459db951da0e2e94e2e33fb7 Vuforia.UnityExtensions.dll:Vuforia.AnchorStageBehaviour
