@@ -3700,6 +3700,7 @@ Prefab:
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 14e1210e50405ed499968eba6d64f2a5, type: 3}
   m_IsPrefabParent: 0
+<<<<<<< HEAD
 --- !u!1 &542698481
 GameObject:
   m_ObjectHideFlags: 0
@@ -3920,10 +3921,13 @@ Prefab:
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: e13710708cbeaf24586a9261713070af, type: 2}
   m_IsPrefabParent: 0
+=======
+>>>>>>> parent of 125cf42b... First Build
 --- !u!4 &560185935 stripped
 Transform:
   m_PrefabParentObject: {fileID: 400000, guid: e13710708cbeaf24586a9261713070af, type: 2}
   m_PrefabInternal: {fileID: 560185934}
+<<<<<<< HEAD
 --- !u!1 &578174224
 GameObject:
   m_ObjectHideFlags: 0
@@ -3979,6 +3983,8 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 11
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+=======
+>>>>>>> parent of 125cf42b... First Build
 --- !u!1001 &583089969
 Prefab:
   m_ObjectHideFlags: 0

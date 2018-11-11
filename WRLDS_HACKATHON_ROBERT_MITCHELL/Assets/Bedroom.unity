@@ -1879,8 +1879,11 @@ GameObject:
   - component: {fileID: 789400831}
   - component: {fileID: 789400835}
   - component: {fileID: 789400836}
+<<<<<<< HEAD
   - component: {fileID: 789400837}
   - component: {fileID: 789400838}
+=======
+>>>>>>> parent of 125cf42b... First Build
   m_Layer: 0
   m_Name: Ball
   m_TagString: Untagged
@@ -1984,6 +1987,7 @@ MonoBehaviour:
   rb: {fileID: 789400835}
   ground: 0
   scenes: {fileID: 1382477809}
+<<<<<<< HEAD
   ball_source: {fileID: 789400838}
   spin: {fileID: 8300000, guid: 6c56771f7356b37488589d575b74f528, type: 3}
   ball: {fileID: 789400837}
@@ -2085,6 +2089,10 @@ AudioSource:
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 0
+=======
+  ball: {fileID: 0}
+  food: {fileID: 0}
+>>>>>>> parent of 125cf42b... First Build
 --- !u!4 &821834414 stripped
 Transform:
   m_PrefabParentObject: {fileID: 400000, guid: 85bd836831b027f43b91df93f4f1551a, type: 2}
@@ -3385,7 +3393,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: faaeae3287e40744aa5ace506bbca49e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  stats: {fileID: 1462516592}
+  stats: {fileID: 0}
   Bathroom: Bathroom
   Bedroom: Bedroom
   SDKintegration: SDKintegration
@@ -3559,6 +3567,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a9286475966481d40b246bf237cbf0ac, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+<<<<<<< HEAD
   Happiness: 0
   Hunger: 0
   Cleanliness: 0
@@ -3574,6 +3583,11 @@ MonoBehaviour:
     Hunger: 0
     Cleanliness: 0
   FileExists: 0
+=======
+  Happiness: 100
+  Hunger: 100
+  Cleanliness: 100
+>>>>>>> parent of 125cf42b... First Build
 --- !u!224 &1462516593
 RectTransform:
   m_ObjectHideFlags: 0
