@@ -20,10 +20,10 @@ public class Ball : MonoBehaviour
     // Use this for initialization
     void Start()
     {
-        
         scenes = GameObject.FindObjectOfType<sceneChange>();
         scenes.m_Scene = SceneManager.GetActiveScene();
         stats = GameObject.FindObjectOfType<Stats>();
+
         // By calling the singelton instance of WRLDSBallPlugin, we instantiate 
         // the plugin that communicate with the ball.
 
@@ -57,19 +57,10 @@ public class Ball : MonoBehaviour
 
     // Update is called once per frame
     void Update () {
-        if (Input.GetKeyDown(KeyCode.L))
-        {
-            stats.Load();
-        }
-
-        if (Input.GetKeyDown(KeyCode.S))
-        {
-            stats.Save();
-        }
-
 
         if (Input.GetKeyDown("space"))
         {
+            Debug.Log(scenes.m_Scene.name);
 
             if (scenes.m_Scene.name == "Bedroom")
             {
@@ -115,6 +106,7 @@ public class Ball : MonoBehaviour
         ball_source.PlayOneShot(spin);
         ballG = sumG;
     }
+
     private void OnCollisionEnter(Collision collision)
     {
         if (scenes.m_Scene.name == "Bedroom")
