@@ -249,7 +249,7 @@ PlayerSettings:
   AndroidTargetDevice: 0
   AndroidSplashScreenScale: 0
   androidSplashScreen: {fileID: 0}
-  AndroidKeystoreName: D:/WRLDS_HACKATHON_ROBERT_MITCHELL/user.keystore
+  AndroidKeystoreName: C:/Users/rdmit/Documents/GitHub/WRLDS_HACKATHON/WRLDS_HACKATHON_ROBERT_MITCHELL/user.keystore
   AndroidKeyaliasName: robert mitchelll
   AndroidTVCompatibility: 1
   AndroidIsGame: 1
